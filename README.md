@@ -5,3 +5,4 @@ This is my first AI project.
 ## Goal
 Learn Python and build AI applications.
 I am learning Git and GitHub.
+I am practicing Git.
